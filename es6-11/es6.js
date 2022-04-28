@@ -186,7 +186,7 @@
     // https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Template_literals
 
     {
-        const weather = 'sunny';
+        const weather = 'sunny'; 
         const temparature = '20';
 
         //old ver
