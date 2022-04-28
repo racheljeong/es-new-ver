@@ -180,7 +180,6 @@
     }
    
     console.clear();
-    
 
     //6. Template Literals
     // https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Template_literals

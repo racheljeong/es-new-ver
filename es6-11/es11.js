@@ -7,7 +7,7 @@
             title : 'S/W Engineer',
             manager : {
                 name : 'Bob',
-            }, 
+            },
         },
     };
 
